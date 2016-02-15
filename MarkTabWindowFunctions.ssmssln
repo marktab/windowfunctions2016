@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 13.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "MarkTabWindowFunctions", "MarkTabWindowFunctions\MarkTabWindowFunctions.ssmssqlproj", "{DD2013A0-5512-47D9-86CC-8C13692C45DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2013A0-5512-47D9-86CC-8C13692C45DE}.Default|Default.ActiveCfg = Default
+		{54D72083-40B7-4C53-93C3-A66657D2445E}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
